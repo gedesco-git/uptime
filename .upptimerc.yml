@@ -6,7 +6,7 @@ sites:
   - name: Google
     url: https://www.google.com
   - name: Sitio 1
-    url: ${{ secrets.SITE_1 }}
+    url: $SITE_1
   - name: Hacker News
     url: https://news.ycombinator.com
   - name: Test Broken Site
