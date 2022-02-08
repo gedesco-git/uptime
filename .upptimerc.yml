@@ -7,8 +7,8 @@ sites:
     url: $SITE_AC_COM
   - name: ADA ES
     url: $SITE_ADA_ES
-  - name: AD ES
-    url: $SITE_AD_ES
+  #- name: AD ES
+  #  url: $SITE_AD_ES
   - name: BC ES
     url: $SITE_BC_ES
   - name: CRF COM
