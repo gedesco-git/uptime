@@ -3,8 +3,47 @@ owner: gedesco-git # Your GitHub organization or username, where this repository
 repo: uptime # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
+  - name: AC COM
+    url: $SITE_AC_COM
+  - name: ADA ES
+    url: $SITE_ADA_ES
+  - name: AD ES
+    url: $SITE_AD_ES
+  - name: BC ES
+    url: $SITE_BC_ES
+  - name: CRF COM
+    url: $SITE_CRF_COM
+  - name: DIS ES
+    url: $SITE_DIS_ES
+  - name: EC3 COM
+    url: $SITE_EC3_COM
+  - name: EPAG ES
+    url: $SITE_EP_ES
+  - name: FDC ES
+    url: $SITE_FDC_ES
+  - name: GDCH ES 
+    url: $SITE_GDCH_ES
+  - name: GDCLB ES
+    url: $SITE_GDCLB_ES
+  - name: GDCSA ES
+    url: $SITE_GDCSA_ES
+  - name: GDC ES
+    url: $SITE_GDC_ES
+  - name: MDF ES
+    url: $SITE_MDF_ES
+  - name: PGR COM
+    url: $SITE_PGR_COM
+  - name: PRS ES
+    url: $SITE_PRS_ES
+  - name: RCB ES
+    url: $SITE_RCB_ES
+  - name: URG COM
+    url: $SITE_URG_COM
+  - name: VZOO COM
+    url: $SITE_VZOO_COM
+
+assignees:
+  - gedesco-git
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -12,12 +51,9 @@ status-website:
   # cname: demo.upptime.js.org
   baseUrl: /uptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Status Page - Uptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  name: GDC Uptime
+  introTitle: "**GDC Uptime** is powered entirely by [Upptime](https://github.com/upptime/upptime) and GitHub."
+  introMessage: Statuses use **real-time** data
   navbar:
     - title: Status
       href: /
-
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
