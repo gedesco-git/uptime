@@ -56,4 +56,4 @@ status-website:
   introMessage: Statuses use **real-time** data
   navbar:
     - title: Status
-      href: /
+      href: /uptime
