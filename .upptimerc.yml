@@ -17,16 +17,16 @@ sites:
     url: $SITE_DIS_ES
   - name: EC3 COM
     url: $SITE_EC3_COM
-  - name: EPAG ES
-    url: $SITE_EP_ES
+  # - name: EPAG ES
+  # url: $SITE_EP_ES
   - name: FDC ES
     url: $SITE_FDC_ES
   - name: GDCH ES 
     url: $SITE_GDCH_ES
   - name: GDCLB ES
     url: $SITE_GDCLB_ES
-  - name: GDCSA ES
-    url: $SITE_GDCSA_ES
+  # - name: GDCSA ES
+  # url: $SITE_GDCSA_ES
   - name: GDC ES
     url: $SITE_GDC_ES
   - name: MDF ES
