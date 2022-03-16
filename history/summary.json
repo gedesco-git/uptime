@@ -228,18 +228,20 @@
     "url": "$SITE_PRS_ES",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "prs-es",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 811,
-    "timeDay": 783,
-    "timeWeek": 828,
-    "timeMonth": 819,
-    "timeYear": 811,
-    "dailyMinutesDown": {}
+    "time": 803,
+    "timeDay": 626,
+    "timeWeek": 783,
+    "timeMonth": 806,
+    "timeYear": 803,
+    "dailyMinutesDown": {
+      "2022-03-16": 0
+    }
   },
   {
     "name": "RCB ES",
