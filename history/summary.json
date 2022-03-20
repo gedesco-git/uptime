@@ -268,19 +268,19 @@
     "url": "$SITE_URG_COM",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "urg-com",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 798,
-    "timeDay": 722,
-    "timeWeek": 762,
-    "timeMonth": 799,
-    "timeYear": 798,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.13%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.98%",
+    "time": 800,
+    "timeDay": 797,
+    "timeWeek": 776,
+    "timeMonth": 801,
+    "timeYear": 800,
     "dailyMinutesDown": {
-      "2022-03-20": 1
+      "2022-03-20": 13
     }
   },
   {
@@ -288,19 +288,19 @@
     "url": "$SITE_VZOO_COM",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "vzoo-com",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 855,
-    "timeDay": 721,
-    "timeWeek": 823,
-    "timeMonth": 846,
-    "timeYear": 855,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.17%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.98%",
+    "time": 857,
+    "timeDay": 836,
+    "timeWeek": 839,
+    "timeMonth": 850,
+    "timeYear": 857,
     "dailyMinutesDown": {
-      "2022-03-20": 0
+      "2022-03-20": 12
     }
   }
 ]
