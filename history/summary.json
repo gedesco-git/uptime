@@ -156,10 +156,10 @@
     "url": "$SITE_GDCLB_ES",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "gdclb-es",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1107,
@@ -167,7 +167,9 @@
     "timeWeek": 1211,
     "timeMonth": 1113,
     "timeYear": 1107,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-21": 1
+    }
   },
   {
     "name": "GDC ES",
@@ -192,19 +194,19 @@
     "url": "$SITE_MDF_ES",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "mdf-es",
-    "status": "up",
-    "uptime": "99.77%",
-    "uptimeDay": "92.39%",
-    "uptimeWeek": "98.64%",
-    "uptimeMonth": "99.69%",
-    "uptimeYear": "99.77%",
+    "status": "down",
+    "uptime": "99.79%",
+    "uptimeDay": "93.40%",
+    "uptimeWeek": "98.78%",
+    "uptimeMonth": "99.72%",
+    "uptimeYear": "99.79%",
     "time": 1124,
     "timeDay": 3005,
     "timeWeek": 2162,
     "timeMonth": 1311,
     "timeYear": 1124,
     "dailyMinutesDown": {
-      "2022-03-21": 110,
+      "2022-03-21": 95,
       "2022-03-20": 28
     }
   },
