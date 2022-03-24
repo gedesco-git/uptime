@@ -156,19 +156,19 @@
     "url": "$SITE_GDCLB_ES",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "gdclb-es",
-    "status": "down",
-    "uptime": "99.81%",
-    "uptimeDay": "91.64%",
-    "uptimeWeek": "98.81%",
-    "uptimeMonth": "99.73%",
-    "uptimeYear": "99.81%",
-    "time": 1194,
-    "timeDay": 1072,
-    "timeWeek": 1570,
-    "timeMonth": 1268,
-    "timeYear": 1194,
+    "status": "up",
+    "uptime": "99.80%",
+    "uptimeDay": "91.11%",
+    "uptimeWeek": "98.73%",
+    "uptimeMonth": "99.71%",
+    "uptimeYear": "99.80%",
+    "time": 1192,
+    "timeDay": 1069,
+    "timeWeek": 1530,
+    "timeMonth": 1262,
+    "timeYear": 1192,
     "dailyMinutesDown": {
-      "2022-03-24": 120
+      "2022-03-24": 128
     }
   },
   {
