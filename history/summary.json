@@ -100,9 +100,9 @@
     "url": "$SITE_EC3_COM",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "ec-3-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.97%",
@@ -112,6 +112,7 @@
     "timeMonth": 2468,
     "timeYear": 2410,
     "dailyMinutesDown": {
+      "2022-04-27": 0,
       "2022-04-11": 19,
       "2022-03-07": 19
     }
@@ -168,7 +169,7 @@
     "time": 1678,
     "timeDay": 1008,
     "timeWeek": 1034,
-    "timeMonth": 2101,
+    "timeMonth": 2120,
     "timeYear": 1678,
     "dailyMinutesDown": {
       "2022-04-13": 283,
@@ -234,7 +235,7 @@
     "time": 1327,
     "timeDay": 624,
     "timeWeek": 824,
-    "timeMonth": 1711,
+    "timeMonth": 1666,
     "timeYear": 1327,
     "dailyMinutesDown": {
       "2022-04-11": 17,
