@@ -173,12 +173,12 @@
     "uptime": "99.18%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "97.00%",
-    "uptimeMonth": "98.67%",
+    "uptimeMonth": "99.31%",
     "uptimeYear": "99.18%",
     "time": 1672,
     "timeDay": 1304,
     "timeWeek": 1573,
-    "timeMonth": 1578,
+    "timeMonth": 1557,
     "timeYear": 1672,
     "dailyMinutesDown": {
       "2022-05-11": 302,
@@ -260,9 +260,9 @@
     "url": "$SITE_PGR_COM",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "pgr-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -271,7 +271,9 @@
     "timeWeek": 363,
     "timeMonth": 253,
     "timeYear": 314,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-05-13": 0
+    }
   },
   {
     "name": "PRS ES",
