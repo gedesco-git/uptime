@@ -204,18 +204,20 @@
     "url": "$SITE_COM_GURU",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "com-guru",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 897,
-    "timeDay": 1290,
-    "timeWeek": 979,
-    "timeMonth": 918,
-    "timeYear": 897,
-    "dailyMinutesDown": {}
+    "time": 1173,
+    "timeDay": 10331,
+    "timeWeek": 4044,
+    "timeMonth": 1601,
+    "timeYear": 1173,
+    "dailyMinutesDown": {
+      "2022-06-21": 0
+    }
   },
   {
     "name": "GDC ES",
