@@ -1,7 +1,7 @@
 url: $SITE_GDCLB_ES
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2023-09-12T01:41:25.070Z
+status: up
+code: 200
+responseTime: 1158
+lastUpdated: 2023-09-12T02:04:53.073Z
 startTime: 2022-02-08T09:04:52.000Z
 generator: Upptime <https://github.com/upptime/upptime>
