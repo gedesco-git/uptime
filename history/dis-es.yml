@@ -1,7 +1,7 @@
 url: $SITE_DIS_ES
-status: up
-code: 200
-responseTime: 940
-lastUpdated: 2023-10-03T23:12:44.980Z
+status: down
+code: 500
+responseTime: 996
+lastUpdated: 2023-10-04T16:40:29.668Z
 startTime: 2022-02-08T09:04:43.000Z
 generator: Upptime <https://github.com/upptime/upptime>
