@@ -1,7 +1,7 @@
 url: $SITE_FDC_ES
-status: up
-code: 200
-responseTime: 1471
-lastUpdated: 2024-01-01T23:13:49.581Z
+status: down
+code: 404
+responseTime: 1076
+lastUpdated: 2024-01-02T09:34:27.378Z
 startTime: 2022-02-08T09:04:47.000Z
 generator: Upptime <https://github.com/upptime/upptime>
