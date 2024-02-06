@@ -16,7 +16,7 @@
     "timeMonth": 817,
     "timeYear": 669,
     "dailyMinutesDown": {
-      "2024-02-06": 1002,
+      "2024-02-06": 1013,
       "2024-02-05": 1440,
       "2024-02-04": 1440,
       "2024-02-03": 1440,
@@ -166,7 +166,7 @@
     "timeMonth": 0,
     "timeYear": 1416,
     "dailyMinutesDown": {
-      "2024-02-06": 1002,
+      "2024-02-06": 1013,
       "2024-02-05": 1440,
       "2024-02-04": 1440,
       "2024-02-03": 1440,
@@ -438,7 +438,7 @@
     "timeMonth": 926,
     "timeYear": 970,
     "dailyMinutesDown": {
-      "2024-02-06": 1002,
+      "2024-02-06": 1013,
       "2024-02-05": 1440,
       "2024-02-04": 1440,
       "2024-02-03": 1440,
@@ -728,7 +728,7 @@
     "timeMonth": 0,
     "timeYear": 1363,
     "dailyMinutesDown": {
-      "2024-02-06": 1002,
+      "2024-02-06": 1013,
       "2024-02-05": 1440,
       "2024-02-04": 1440,
       "2024-02-03": 1440,
@@ -867,19 +867,19 @@
     "url": "$SITE_COM_GURU",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "com-guru",
-    "status": "up",
+    "status": "down",
     "uptime": "99.24%",
-    "uptimeDay": "97.53%",
+    "uptimeDay": "97.48%",
     "uptimeWeek": "98.70%",
-    "uptimeMonth": "97.78%",
+    "uptimeMonth": "97.77%",
     "uptimeYear": "98.62%",
-    "time": 7792,
+    "time": 7798,
     "timeDay": 6021,
     "timeWeek": 8628,
     "timeMonth": 9654,
     "timeYear": 8014,
     "dailyMinutesDown": {
-      "2024-02-06": 36,
+      "2024-02-06": 37,
       "2024-02-05": 15,
       "2024-02-03": 26,
       "2024-02-01": 54,
@@ -944,7 +944,7 @@
       "2023-10-08": 79,
       "2023-10-07": 53,
       "2023-10-06": 64,
-      "2023-10-05": 55
+      "2023-10-05": 38
     }
   },
   {
@@ -964,7 +964,7 @@
     "timeMonth": 1044,
     "timeYear": 540,
     "dailyMinutesDown": {
-      "2024-02-06": 1003,
+      "2024-02-06": 1013,
       "2024-02-05": 1440,
       "2024-02-04": 1440,
       "2024-02-03": 1440,
@@ -1120,10 +1120,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "pgr-com",
     "status": "down",
-    "uptime": "99.91%",
-    "uptimeDay": "35.02%",
-    "uptimeWeek": "90.72%",
-    "uptimeMonth": "97.86%",
+    "uptime": "99.90%",
+    "uptimeDay": "34.27%",
+    "uptimeWeek": "90.61%",
+    "uptimeMonth": "97.84%",
     "uptimeYear": "99.82%",
     "time": 659,
     "timeDay": 1364,
@@ -1131,7 +1131,7 @@
     "timeMonth": 1314,
     "timeYear": 891,
     "dailyMinutesDown": {
-      "2024-02-06": 936,
+      "2024-02-06": 946,
       "2023-09-12": 23
     }
   },
@@ -1224,14 +1224,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "77.90%",
+    "uptimeYear": "77.89%",
     "time": 1287,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 1364,
     "dailyMinutesDown": {
-      "2024-02-06": 1003,
+      "2024-02-06": 1014,
       "2024-02-05": 1440,
       "2024-02-04": 1440,
       "2024-02-03": 1440,
