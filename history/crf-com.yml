@@ -1,7 +1,7 @@
 url: $SITE_CRF_COM
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-03-26T07:51:41.637Z
+status: up
+code: 200
+responseTime: 696
+lastUpdated: 2024-03-26T07:58:39.969Z
 startTime: 2022-02-08T09:04:42.000Z
 generator: Upptime <https://github.com/upptime/upptime>
