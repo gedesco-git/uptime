@@ -1,7 +1,7 @@
 url: $SITE_RCB_ES
-status: down
-code: 500
-responseTime: 768
-lastUpdated: 2024-03-27T10:11:02.085Z
+status: up
+code: 200
+responseTime: 1216
+lastUpdated: 2024-03-27T11:28:20.589Z
 startTime: 2022-02-08T09:04:58.000Z
 generator: Upptime <https://github.com/upptime/upptime>
