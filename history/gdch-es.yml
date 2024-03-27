@@ -1,7 +1,7 @@
 url: $SITE_GDCH_ES
-status: down
-code: 500
-responseTime: 1056
-lastUpdated: 2024-03-27T10:10:49.615Z
+status: up
+code: 200
+responseTime: 1382
+lastUpdated: 2024-03-27T11:28:11.014Z
 startTime: 2022-02-08T09:04:49.000Z
 generator: Upptime <https://github.com/upptime/upptime>
