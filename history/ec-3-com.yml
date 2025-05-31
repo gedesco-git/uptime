@@ -1,7 +1,7 @@
 url: $SITE_EC3_COM
-status: down
-code: 503
-responseTime: 2974
-lastUpdated: 2025-05-31T15:59:53.128Z
+status: up
+code: 200
+responseTime: 2013
+lastUpdated: 2025-05-31T16:30:06.551Z
 startTime: 2022-02-08T09:04:43.000Z
 generator: Upptime <https://github.com/upptime/upptime>
