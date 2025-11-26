@@ -1,7 +1,7 @@
 url: $SITE_PGR_COM
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-11-26T09:01:27.684Z
+status: up
+code: 200
+responseTime: 418
+lastUpdated: 2025-11-26T09:31:20.006Z
 startTime: 2022-02-08T09:04:56.000Z
 generator: Upptime <https://github.com/upptime/upptime>
